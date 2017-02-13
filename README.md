@@ -1,0 +1,2 @@
+# softwareHW
+Simple Calculator
